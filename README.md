@@ -27,11 +27,7 @@
 
 ## 📦 Projeto em Desenvolvimento
 
-- [**ProdAlert**](#) -
-**API para Monitoramento de Produtos Perecíveis**
-
-Este projeto consiste em uma API em Java conectada a uma Raspberry Pi, que realiza o gerenciamento de produtos perecíveis. A API permite a inserção de produtos com data de vencimento e quantidade, alertando o usuário quando o produto estiver próximo de vencer. Além disso, sugere um valor para promoção antes que o produto perca, ajudando a minimizar desperdícios.
-
+sem projetos em desenvolvimento.
 
 ## Curiosidades
 
