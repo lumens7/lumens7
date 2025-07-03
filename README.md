@@ -27,7 +27,8 @@
 
 ## 📦 Projeto em Desenvolvimento
 
-sem projetos em desenvolvimento.
+VidaDoada - Uma aplicação que visa ajudar a pessoas necessitadas a receberem doações.
+Sanctus - Site que visa mostrar como os santos podem ser exemplos para que nos busquemos também a vida de santidade.
 
 ## Curiosidades
 
